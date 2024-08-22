@@ -1,6 +1,6 @@
 
 
-#' Title To print  mean and median
+#' Title  To print  mean and median for a given vector
 #'
 #' @param x  any numeric vector
 #'
