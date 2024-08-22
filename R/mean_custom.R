@@ -1,5 +1,5 @@
+#' To calculate mean
 #' This function calculates the mean of a numeric vector with custom options.
-#'
 #' @param x any character vector
 #' @param na.rm Logical; should missing values be removed?
 #'
