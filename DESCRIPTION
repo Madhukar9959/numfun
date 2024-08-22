@@ -5,7 +5,7 @@ Version: 0.1.0
 Author: Madhukar
 Maintainer: The package maintainer <madhusende9959@gmail.com>
 Description:
-           To work with numeric data.
+           This package is mainly used to work with numaric vector.
 License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
