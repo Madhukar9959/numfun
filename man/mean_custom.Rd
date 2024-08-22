@@ -2,7 +2,8 @@
 % Please edit documentation in R/mean_custom.R
 \name{mean_custom}
 \alias{mean_custom}
-\title{This function calculates the mean of a numeric vector with custom options.}
+\title{To calculate mean
+This function calculates the mean of a numeric vector with custom options.}
 \usage{
 mean_custom(x, na.rm = FALSE)
 }
@@ -15,6 +16,7 @@ mean_custom(x, na.rm = FALSE)
 a numeric number
 }
 \description{
+To calculate mean
 This function calculates the mean of a numeric vector with custom options.
 }
 \examples{
